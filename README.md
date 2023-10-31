@@ -1,2 +1,2 @@
-# lab-agile-planning
-this repositary contains the lab for agile planning
+# cds codes repo
+this repositary contains cds views
