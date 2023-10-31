@@ -11,16 +11,18 @@ define view zsf_cds_session as select from ekpo
         ltrim(matnr, 'T') as Material_Number,
         
         case statu
-        when 'A' then 'Angebot vorhanden bei Anfrageposition'
-        when 'F' then 'Über Fertigungsauftrag angelegt'
-        else 'No Quotation'
+            when 'A' then 'Angebot vorhanden bei Anfrageposition'
+            when 'F' then 'Über Fertigungsauftrag angelegt'
+            else 'No Quotation'
         end as RFQ_Status,
         
         case
-        when lgort = 'TM01' then 'STR1'
-        when lgort = 'TM02' then 'STR2'
+            when lgort = 'TM01' then 'STR1'
+            when lgort = 'TM02' then 'STR2'
         
         end as STR_LOC        
         
 }
+ 
+
 ```
