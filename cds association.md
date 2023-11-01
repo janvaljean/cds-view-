@@ -5,7 +5,7 @@
     -make associations public 
     -association should be in entity list.
     -dont create association between the  different associations.
-    - for ui app faster than join
+    - for ui app faster than join//lazy join
   
 
 ```CDS
