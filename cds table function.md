@@ -1,5 +1,4 @@
 
-
 <a name="top"></a>
 
 #  cds table functions
@@ -56,4 +55,8 @@ returns {
 }
 implemented by method zsf_class_tf=>get_order_details;
 ```
+
+<details>
+  <summary>Expand to view the details</summary>
+  <!-- -->
 <p align="right"><a href="#top">⬆️ back to top</a></p>
