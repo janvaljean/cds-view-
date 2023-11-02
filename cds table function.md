@@ -2,10 +2,10 @@
 <a name="top"></a>
 
 #  cds table functions
- - [cds table functions](#cds table functions)
-  - [define table function](#define table function)
-  - [make your class and methods -public and static](#make your class and methods -public and static)
-  - [create your cds](#create your cds)
+ - [cds table functions](#cds-table-functions)
+  - [define table function](#define-table-function)
+  - [make your class and methods -public and static](#make-your-class-and-methods-public-and-static)
+  - [create your cds](#create-your-cds)
 
 
 
