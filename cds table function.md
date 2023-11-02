@@ -29,7 +29,7 @@ implemented by method zsf_class_tf=>get_order_details;
 ## make your class and methods public and static
 
 
-```CDS
+```ABAP
 class zsf_class_tf definition public.
 
   public section.
